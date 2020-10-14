@@ -14,9 +14,9 @@
 
 ---
 
-### What is Nano?
+### What is Nano-bitcoin?
 
-Nano is a digital payment protocol designed to be accessible and lightweight, with a focus on removing inefficiencies present in other cryptocurrencies. With ultrafast transactions and zero fees on a secure, green and decentralized network, this makes Nano ideal for everyday transactions.
+Nano is a digital payment protocol designed to be accessible and lightweight, with a focus on removing inefficiencies present in other cryptocurrencies. With ultrafast transactions and zero fees on a secure, green and decentralized network, this makes Nano ideal for everyday transactions.we are trying to combine bitcoin with a 21 mil cap with nano to make an ultimate peer to peer cash. our idea is to give nano for every bitcoin you own, for example if you own 1 BTC you will get 1 nano for free. you dont need to exchange it. NBTC is fast, feeless, 
 
 ---
 
@@ -34,12 +34,7 @@ Other documentation details can be found at https://docs.nano.org.
 
 ### Links & Resources
 
-* [Nano Website](https://nano.org)
-* [Documentation](https://docs.nano.org)
-* [Discord Chat](https://chat.nano.org/)
-* [Reddit](https://reddit.com/r/nanocurrency)
-* [Medium](https://medium.com/nanocurrency)
-* [Twitter](https://twitter.com/nano)
+* 
 
 ---
 
