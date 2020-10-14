@@ -14,19 +14,21 @@
 
 ---
 
-### What is Nano-bitcoin?
+### What is Nano-bitcoin or NBTC ?
 
-Nano is a digital payment protocol designed to be accessible and lightweight, with a focus on removing inefficiencies present in other cryptocurrencies. With ultrafast transactions and zero fees on a secure, green and decentralized network, this makes Nano ideal for everyday transactions.we are trying to combine bitcoin with a 21 mil cap with nano to make an ultimate peer to peer cash. our idea is to give nano for every bitcoin you own, for example if you own 1 BTC you will get 1 nano for free. you dont need to exchange it. NBTC is fast, feeless, 
+Nano is a digital payment protocol designed to be accessible and lightweight, with a focus on removing inefficiencies present in other cryptocurrencies. With ultrafast transactions and zero fees on a secure, green and decentralized network, this makes Nano ideal for everyday transactions.we are trying to combine bitcoin with a 21 mil cap with nano to make an ultimate peer to peer cash. our idea is to give nano for every bitcoin you own, for example if you own 1 BTC you will get 1 nano for free. you dont need to exchange it. NBTC is fast, feeless, clean for the enviorment and has what people like about btc a max of 21mil.
 
 ---
 
 ### Guides & Documentation
-
+### Nano:
 * [Whitepaper](https://nano.org/en/whitepaper)
 * [Running a Node](https://docs.nano.org/running-a-node/overview/)
 * [Integration Guides](https://docs.nano.org/integration-guides/the-basics/)
 * [Command Line Interface](https://docs.nano.org/commands/command-line-interface/)
 * [RPC Protocol](https://docs.nano.org/commands/rpc-protocol/)
+### BTC:
+* https://bitcoin.org/
 
 Other documentation details can be found at https://docs.nano.org.
 
@@ -46,5 +48,4 @@ Please see the [contributors guide](https://docs.nano.org/node-implementation/co
 
 ### Contact us
 
-We want to hear about any trouble, success, delight, or pain you experience when
-using Nano. Let us know by [filing an issue](https://github.com/nanocurrency/nano-node/issues), joining us on [Reddit](https://reddit.com/r/nanocurrency), or joining us on [Discord](https://chat.nano.org/).
+
